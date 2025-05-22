@@ -1,0 +1,410 @@
+"Indigenous territory" "Metal contamination exposure (%)"
+"1" "Parque do Tumucumaque" 48.3293413173653
+"2" "Koatinemo" 41.848
+"3" "Kararaô" 40.3207547169811
+"4" "Nukini" 24
+"5" "Poyanawa" 24.2222222222222
+"6" "Jaminawa do Igarapé Preto" 24.6
+"7" "Jaminawa Arara do Rio Bagé" 26
+"8" "Kaxinawá da Praia do Carapanã" 24.3684210526316
+"9" "Kampa do Rio Amonea" 24.1153846153846
+"10" "Kaxinawá Ashaninka do Rio Breu" 25.1538461538462
+"11" "Kaxinawá do Rio Jordão" 26
+"12" "Alto Tarauacá" 25.8163265306122
+"13" "Kampa e Isolados do Rio Envira" 25.8289473684211
+"14" "Kaxinawá do Rio Humaitá" 25.3720930232558
+"15" "Arara do Igarapé Humaitá" 25.5
+"16" "Rio Gregório" 25.5483870967742
+"17" "Kaxinawá Colônia Vinte e Sete" 26
+"18" "Igarapé do Caucho" 25.5
+"19" "Kulina Igarapé do Pau" 25.8235294117647
+"20" "Kaxinawá Nova Olinda" 25.8333333333333
+"21" "Mamoadate" 26.2959183673469
+"22" "Cabeceira do Rio Acre" 26.5925925925926
+"23" "Alto Rio Purus" 26.2738095238095
+"24" "Galibi" 53
+"25" "Jumina" 56.8571428571429
+"26" "Uaça" 59.0324675324675
+"27" "Waiãpi" 59.020942408377
+"28" "Boca do Acre" 28.5555555555556
+"29" "Camicua" 27.0555555555556
+"30" "Coata-Laranjal" 33.2379679144385
+"31" "Deni" 27.4650698602794
+"32" "Estrela da Paz" 31
+"33" "Gavião" 32
+"34" "Guapenu" 29.6666666666667
+"35" "Igarapé Grande" 29
+"36" "Ipixuna" 31.5774647887324
+"37" "Itaitinga" 29.5
+"38" "Jaquiri" 30
+"39" "Jatuarana" 30
+"40" "Katukina/Kaxinawá" 26.6666666666667
+"41" "Kaxarari" 31.2244897959184
+"42" "Kulina do Medio Jurua" 25.7222222222222
+"43" "Lago Aiapua" 31.4285714285714
+"44" "Lago do Beruri" 31
+"45" "Lameirão" 25
+"46" "Lauro Sodré" 25
+"47" "Macarrão" 30.75
+"48" "Seruini/Mariene" 28.1086956521739
+"49" "Meria" 25
+"50" "Miratu" 30.8
+"51" "Murutinga" 31
+"52" "Natal/Felicidade" 29.5
+"53" "Nhamundá/Mapuera" 38.1524926686217
+"54" "Nove de Janeiro" 31.4722222222222
+"55" "Padre" 32
+"56" "Paracuhuba" 33
+"57" "Paumari do Lago Marahã" 31.025641025641
+"58" "Pirahã" 32
+"59" "Rio Biá" 27.4754521963824
+"60" "Recreio/São Félix" 31
+"61" "São Leopoldo" 25.6521739130435
+"62" "Tabocal" 31.6666666666667
+"63" "Tenharim Marmelos" 32.4025157232704
+"64" "Terra Vermelha" 30.6666666666667
+"65" "Betania" 28.5454545454545
+"66" "Tikúna de Feijoal" 26.1538461538462
+"67" "Évare II" 27.6727272727273
+"68" "Évare I" 25.7784090909091
+"69" "Tukuna Porto Espiritual" 26
+"70" "Tikuna de Santo Antonio" 27.5
+"71" "Vui-Uata-In" 27.3513513513514
+"72" "Trincheira" 32
+"73" "Uati-Paraná" 29.9285714285714
+"74" "Tukuna Umariaçu" 26.5
+"75" "Uneiuxi" 35.037037037037
+"76" "Vale do Javari" 24.9468963042698
+"77" "Waimiri-Atroari" 37.0723606168446
+"78" "Zuruahã" 28.1772151898734
+"79" "Alto Turiaçu" 63.7906976744186
+"80" "Awa" 63.075
+"81" "Caru" 62.1636363636364
+"82" "Rio Pindaré" 62.8333333333333
+"83" "Apiaka/Kayabi" 43.9714285714286
+"84" "Bakairi" 27.1818181818182
+"85" "Capoto/Jarina" 45.8076923076923
+"86" "Erikbaktsa" 43
+"87" "Escondido" 38.5263157894737
+"88" "Irantxe" 42.3846153846154
+"89" "Japuira" 41.02
+"90" "Marechal Rondon" 33.1388888888889
+"91" "Menku" 44
+"92" "Nambikwara" 41.9701492537313
+"93" "Parabubure" 33.4133333333333
+"94" "Paresi" 27.1989247311828
+"95" "Pimentel Barbosa" 34.1111111111111
+"96" "Pirineus de Souza" 41.9
+"97" "Rio Formoso" 36
+"98" "Santana" 37.8333333333333
+"99" "Sararé" 38.9565217391304
+"100" "Serra Morena" 40.9615384615385
+"101" "Tirecatinga" 41.2325581395349
+"102" "Utiariti" 38.4782608695652
+"103" "Vale do Guaporé" 40.3253012048193
+"104" "Zoró" 40.5762711864407
+"105" "Alto Rio Guamá" 64
+"106" "Amanayé" 61.3333333333333
+"107" "Anambé" 61
+"108" "Andirá-Marau" 34.8692307692308
+"109" "Apyterewa" 44.7667984189723
+"110" "Araweté Igarapé Ipixuna" 42.7845659163987
+"111" "Baú" 40.9367588932806
+"112" "Xikrin do Rio Catete" 49.5673758865248
+"113" "Kayapó" 47.5158878504673
+"114" "Cayabi" 39.5405405405405
+"115" "Mãe Maria" 57.75
+"116" "Munduruku" 37.0945083014049
+"117" "Paquiçamba" 45.5
+"118" "Parakanã" 53.9741379310345
+"119" "Sai-Cinza" 35.8
+"120" "Sororó" 54
+"121" "Tembé" 63
+"122" "Trocará" 58.7142857142857
+"123" "Xambioá" 52
+"124" "Igarapé Lage" 33.28125
+"125" "Igarapé Lourdes" 36.609375
+"126" "Igarapé Ribeirão" 33.6923076923077
+"127" "Karipuna" 33.0625
+"128" "Karitiana" 31.9333333333333
+"129" "Rio Mequens" 37.7142857142857
+"130" "Pacaas Novas" 34.5384615384615
+"131" "Rio Branco" 36.7236842105263
+"132" "Rio Guaporé" 34.7105263157895
+"133" "Rio Negro Ocaia" 33.9142857142857
+"134" "Roosevelt" 41
+"135" "Sagarana" 34.6
+"136" "Sete de Setembro" 38.5185185185185
+"137" "Tubarão Latunde" 39.2222222222222
+"138" "Uru-Eu-Wau-Wau" 34.3572567783094
+"139" "Ananás" 41
+"140" "Aningal" 45.5
+"141" "Anta" 40.8333333333333
+"142" "Araça" 40.5294117647059
+"143" "Barata Livramento" 38.6
+"144" "Bom Jesus" 36.25
+"145" "Boqueirão" 40.6
+"146" "Cajueiro" 40
+"147" "Canauanim" 44
+"148" "Jabuti" 38.2857142857143
+"149" "Jacamim" 41.6451612903226
+"150" "Malacacheta" 42
+"151" "Mangueira" 41
+"152" "Manoa/Pium" 41.6666666666667
+"153" "Muriru" 39
+"154" "Ouro" 37
+"155" "Pium" 40
+"156" "Ponta da Serra" 38
+"157" "Raimundão" 44
+"158" "Raposa Serra do Sol" 40.9770318021201
+"159" "Santa Inez" 44.8888888888889
+"160" "Serra da Moça" 38.6666666666667
+"161" "Sucuba" 38.5
+"162" "Tabalascada" 38.4
+"163" "Truaru" 36
+"164" "WaiWai" 41.9523809523809
+"165" "Arara" 39.0340909090909
+"166" "Trincheira Bacaja" 47.6423220973783
+"167" "Cachoeira Seca" 38.8099173553719
+"168" "Menkragnotí" 45.6644004944376
+"169" "Rio Paru D'Este" 49.7636363636364
+"170" "Parque do Aripuanã" 41.5825426944972
+"171" "Campinas/Katukina" 24
+"172" "Tenharim do Igarapé Preto" 35.741935483871
+"173" "Acimã" 28.6923076923077
+"174" "Alto Sepatini" 29
+"175" "Apurinã do Igarapé São João" 31.5714285714286
+"176" "Apurinã Igarapé Tauamirim" 31.0606060606061
+"177" "Apurinã Km 124 BR-317" 29.7692307692308
+"178" "Banawá" 31.0793650793651
+"179" "Barreira da Missão" 30
+"180" "Boa Vista - AM" 32
+"181" "Cacau do Tarauaca" 26.9090909090909
+"182" "Caititu" 31.2352941176471
+"183" "Capivara" 31
+"184" "Catipari/Mamoria" 28.2051282051282
+"185" "Cunhã-Sapucaia" 31.8064516129032
+"186" "Cuia" 32
+"187" "Guajahã" 29
+"188" "Igarapé Capana" 26.7209302325581
+"189" "Ilha do Camaleão" 29
+"190" "Jarawara/Jamamadi/Kanamati" 29.5905511811024
+"191" "Juma" 30.4666666666667
+"192" "Kanamari do Rio Juruá" 26.4263959390863
+"193" "Paumari do Lago Manissuã" 31.7142857142857
+"194" "Maraã Urubaxi" 34.53125
+"195" "Parana do Boa Boa" 33.6708860759494
+"196" "Paumari do Lago Paricá" 32
+"197" "Paumari do Rio Ituxi" 31.5
+"198" "Paumari do Cuniua" 31.2857142857143
+"199" "Peneri/Tacaquiri" 28.1935483870968
+"200" "Rio Manicoré" 31.2
+"201" "São Pedro do Sepatini" 29.3333333333333
+"202" "Sepoti" 32.0120481927711
+"203" "Tumiã" 28.3076923076923
+"204" "Enawene-Nawe" 42.7682926829268
+"205" "Taihantesu" 41
+"206" "Pequizal" 40
+"207" "Juininha" 32.52
+"208" "Massaco" 37.4820143884892
+"209" "Isiboro Securé" 33.8201438848921
+"210" "Pilón Lajas" 34.294964028777
+"211" "Médio Rio Negro II" 36.7156862745098
+"212" "Alto Rio Negro" 40.5804840568575
+"213" "Médio Rio Negro I" 37.3190394511149
+"214" "Trombetas/Mapuera" 39.5607115235886
+"215" "Zo'e" 41.4232558139535
+"216" "Balaio" 37.9176470588235
+"217" "Cué Cué/ Marabitanas" 38
+"218" "São Marcos - RR" 40.7155963302752
+"219" "Anaro" 42.5454545454545
+"220" "Moskow" 41
+"221" "Kulina do Rio Envira" 26.4642857142857
+"222" "Jaminaua/Envira" 26.037037037037
+"223" "Arara do Rio Branco" 37.6052631578947
+"224" "Água Preta/Inari" 27.9777777777778
+"225" "Camadeni" 27.9791666666667
+"226" "São Domingos do Jacapari e Estação" 30.2391304347826
+"227" "Riozinho do Alto Envira" 26.0117647058824
+"228" "Rio Apaporis" 34.7647058823529
+"229" "Nova Esperança do Rio Jandiatuba" 26
+"230" "Bom Intento" 28.75
+"231" "Matintin" 29.3333333333333
+"232" "Guanabara" 24.6666666666667
+"233" "Porto Limoeiro" 31
+"234" "Porto Redenção" 24.5
+"235" "São Sebastião" 29.3684210526316
+"236" "Prosperidade" 30
+"237" "Santa Cruz de Nova Aliança" 28
+"238" "Barro Alto" 30
+"239" "Maraitá" 29.125
+"240" "São Gabriel/São Salvador" 30.3333333333333
+"241" "São Francisco do Canimari" 25.5
+"242" "Sapotal" 28.3333333333333
+"243" "Sururuá" 24.7692307692308
+"244" "Nauá" 24
+"245" "Arara do Rio Amonia" 24
+"246" "Mawetek" 25.8648648648649
+"247" "Kampa do Igarapé Primavera" 24.625
+"248" "Kaxinawá do Baixo Rio Jordão" 26
+"249" "Kaxinawá Seringal Curralinho" 26.25
+"250" "Inauini/Teuini" 27.0974025974026
+"251" "Garaperi/Lago da Vitoria" 27.25
+"252" "Jaminawa do Rio Caeté" 26.25
+"253" "Jaminawá da Colocação São Paulino" 27.75
+"254" "Valparaiso" 27
+"255" "Jamamadi do Lourdes" 27
+"256" "Caiapucá" 27.3333333333333
+"257" "Cuiu-Cuiu" 29.9166666666667
+"258" "Rio Téa" 36.5839416058394
+"259" "Mapari" 31.1346153846154
+"260" "Parana do Paricá" 33
+"261" "Baixo Rio Negro" 36.5
+"262" "Espírito Santo" 30.5
+"263" "Acapuri de Cima" 31
+"264" "Riozinho" 28.6666666666667
+"265" "Kumaru do Lago Ualá" 30.5833333333333
+"266" "Porto Praia" 31
+"267" "Tupã-Supé" 29.75
+"268" "Marajai" 26
+"269" "Cajuhiri Atravessado" 30.6
+"270" "Rio Cuieras" 32
+"271" "Fortaleza do Patauá" 27.3333333333333
+"272" "São Francisco" 29.25
+"273" "Fortaleza do Castanho" 32
+"274" "Lago do Barrigudo" 30.75
+"275" "Vista Alegre" 31.3333333333333
+"276" "Igarapé Paiol" 32
+"277" "Rio Urubu" 31.4545454545455
+"278" "Lago do Marinheiro" 31.75
+"279" "Patauá" 30.5
+"280" "Apipica" 32
+"281" "Ponciano" 32
+"282" "Jauary" 32.3333333333333
+"283" "Paraná do Arauató" 33
+"284" "Rio Jumas" 31.6666666666667
+"285" "Muratuba" 32
+"286" "São Pedro" 32
+"287" "Lago do Limão" 32
+"288" "Miguel/Josefa" 32.5
+"289" "Igarapé-Açu" 31.25
+"290" "Arary" 32
+"291" "Hi Merimã" 28.7982062780269
+"292" "Kulina do Rio Uerê - Matatibem" 28.5
+"293" "Apurinã do Igarapé Mucuim" 29.3478260869565
+"294" "Mamoriá" 28.3333333333333
+"295" "Sãkoã/Santa Vitória" 28
+"296" "Iquirema" 28.5
+"297" "Monte/Primavera/Goiaba" 29.5
+"298" "Rio Pardo" 37.0377358490566
+"299" "Tenharim Marmelos (Gleba B)" 32.0714285714286
+"300" "Pinatuba" 32
+"301" "Setemã" 31.4666666666667
+"302" "Ariramba" 31.6
+"303" "Lago Jauari" 32
+"304" "Lago Capanã" 31.5
+"305" "Torá" 31.8125
+"306" "Diahui" 32.5294117647059
+"307" "Jaminawa do Guajará" 27
+"308" "Aripuanã" 39.6653543307087
+"309" "Kwazá do Rio São Pedro" 37.4
+"310" "Rio Omerê" 36.0909090909091
+"311" "Lagoa dos Brincos" 42
+"312" "Uirapuru" 22
+"313" "Paukalirajausu" 27
+"314" "Portal do Encantado" 39
+"315" "Panará" 45.7484662576687
+"316" "Sarauá" 63
+"317" "Cobra Grande" 34.3333333333333
+"318" "São João" 34
+"319" "Nova Vista" 34
+"320" "Rio Maró" 33.6666666666667
+"321" "Baixo Tapajós II" 35
+"322" "Km 43" 35
+"323" "São Luiz do Tapajós" 35
+"324" "Pimental" 34.5
+"325" "Mirixipi" 32.6666666666667
+"326" "Aningalzinho" 32.3333333333333
+"327" "Aminã" 32.75
+"328" "Borari de Alter do Chão" 29
+"329" "Baixo Tapajós" 35.25
+"330" "Bragança-Marituba" 34.4
+"331" "Munduruku-Taquara" 35.5714285714286
+"332" "Juruna do Km 17" 41.25
+"333" "Pacajá" 58.2
+"334" "Barreirinha" 63
+"335" "Kuruáya" 39.0185185185185
+"336" "Xipaya" 38.6896551724138
+"337" "Badjonkore" 45.4931506849315
+"338" "Las Casas" 49
+"339" "Karajá Santana do Araguaia" 37
+"340" "Maranduba" 48.5
+"341" "Wawi" 45.0576923076923
+"342" "Ubawawe" 34.5555555555556
+"343" "Parque do Xingu" 45.2844036697248
+"344" "Batelão" 43.7714285714286
+"345" "Rio Arraias/BR 080" 46
+"346" "Ponte de Pedra" 44
+"347" "Estação Parecis" 39.6666666666667
+"348" "Batovi" 47
+"349" "Isoú'pà" 22.5
+"350" "Hu'uhi" 31
+"351" "Maraiwatsede" 38.5961538461538
+"352" "Urubu Branco" 42.469387755102
+"353" "Kapotnhinore" 47
+"354" "Utaria Wyhyna/Iròdu Iràna" 43.3333333333333
+"355" "Chão Preto" 28.75
+"356" "Norotsurã" 37
+"357" "Manchineri do Seringal Guanabara" 27
+"358" "Pequizal do Naruvôtu" 39.3333333333333
+"359" "Rio Gregório" 25.3870967741935
+"360" "Kayabi" 39.7478510028653
+"361" "Manoki" 43.3658536585366
+"362" "Itixi Mitari" 30.9122807017544
+"363" "Jacareúba/Katauixi" 30.9527027027027
+"364" "Yanomami" 44.8012841091493
+"365" "Boa Vista - AM" 32
+"366" "Pantaleao" 30.8
+"367" "Baixo Grande" 32
+"368" "Apurina Igarapé Tauamirim" 31.3333333333333
+"369" "Zoró" 38.75
+"370" "Igarapé Lourdes" 36.3333333333333
+"371" "Puruborá" 34
+"372" "Pirineus de Souza" 39.25
+"373" "Enawenê-Nawê" 38.5
+"374" "Sororó - Gleba Tuapekuakau" 42.75
+"375" "Ikpeng" 46.5
+"376" "Menku" 43
+"377" "Sao Sebastiao Meneroazinho" 31
+"378" "Karitiana" 30.5
+"379" "Igarapé Preto/Pauana" 28
+"380" "Zuruaha" 28.25
+"381" "Jaminawa Arara do Rio Bagé" 25.6666666666667
+"382" "Nukini" 24
+"383" "Arara da Volta Grande do Xingu" 46.7142857142857
+"384" "Paquiçamba" 40.75
+"385" "Brinco das Moças" 34
+"386" "Muratuba do Pará" 35.5
+"387" "Baixo Tapajós/Arapiuns" 35
+"388" "Baixo Rio Negro II" 36
+"389" "Chiquitano de Baia Grande" 31.25
+"390" "Uaça" 58
+"391" "Wawi" 43.5
+"392" "Kaxuyana" 38.6666666666667
+"393" "Escrivao" 36
+"394" "Pontal dos Apiaká" 39
+"395" "Sissaíma" 30.3333333333333
+"396" "Lago Grande" 41.3333333333333
+"397" "Tunayana" 40
+"398" "Tanaru (Interdiçao)" 37
+"399" "Igarapé Taboca do Alto Tarauacá" 26.5
+"400" "Karajá Santana do Araguaia" 43
+"401" "Lago do Correio" 29.1666666666667
+"402" "Rio Negro Ocaia" 33.9605263157895
+"403" "Terena Gleba Iriri" 46.4444444444444
+"404" "Uneiuxi" 34.927374301676
+"405" "Piripkura (Interdiçao)" 37.253164556962
+"406" "Maracaxi" 58.25
+"407" "Kawahiva do Rio Pardo" 37.0671641791045
+"408" "Turé/Mariquita" 61
+"409" "Kumuá basera" 44.3333333333333
