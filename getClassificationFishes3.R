@@ -6,7 +6,7 @@ library(fs)
 library(tidyverse)
 
 # get envidata
-ri <- rast("AmazonContamFromMines/AllDownstream.tif")
+ri <- rast("AllDownstream.tif")
 ri <- terra::as.polygons(ri)
 
 ri2 <- rast("wetlands2_am_wgsUTM20S.tif")
@@ -15,7 +15,7 @@ am <- vect("amazon_basin_minewatchUTM20S.shp")
 project(ri2,ri)
 
 #get metals
-as <- rast("UpdatedRastersContamination/As.tif")
+as <- rast("As.tif")
 as[as ==0] <- NA
 as_vect <- terra::as.polygons(as)
 
@@ -31,7 +31,7 @@ as3 <- as
 as3[as3 != 3] <- NA
 as3_vect <- as.polygons(as3)
 
-cu <- rast("UpdatedRastersContamination/Cu.tif")
+cu <- rast("Cu.tif")
 cu[cu ==0] <- NA
 cu_vect <- terra::as.polygons(cu)
 
@@ -47,7 +47,7 @@ cu3 <- cu
 cu3[cu3 != 3] <- NA
 cu3_vect <- as.polygons(cu3)
 
-pb <- rast("UpdatedRastersContamination/Pb.tif")
+pb <- rast("Pb.tif")
 pb[pb ==0] <- NA
 pb_vect <- terra::as.polygons(pb)
 
@@ -63,7 +63,7 @@ pb3 <- pb
 pb3[pb3 != 3] <- NA
 pb3_vect <- as.polygons(pb3)
 
-zn <- rast("UpdatedRastersContamination/Zn.tif")
+zn <- rast("Zn.tif")
 zn[zn ==0] <- NA
 zn_vect <- terra::as.polygons(zn)
 
@@ -79,7 +79,7 @@ zn3 <- zn
 zn3[zn3 != 3] <- NA
 zn3_vect <- as.polygons(zn3)
 
-hg <- rast("UpdatedRastersContamination/Hg.tif")
+hg <- rast("Hg.tif")
 hg[hg ==0] <- NA
 hg_vect <- terra::as.polygons(hg)
 
