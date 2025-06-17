@@ -1,6 +1,5 @@
 library(terra)
 library(tidyterra)
-library(tictoc)
 library(here)
 library(fs)
 library(tidyverse)
@@ -108,7 +107,7 @@ comHg <- data.frame(species=NA, areaTotal = NA, areaRivers=NA, area1=NA, area2=N
 fishes <- list.files(path = paste0("Proy_Macro/range_fishes_AmazonasTocantins_2024"),
                      pattern = c("*.shp"),recursive = T)
 
-tic()
+
 #for (i in 1:length(fishes)) {
   for (i in 1:10) {
   if(i == 1){next}
@@ -280,12 +279,11 @@ if(F){
   
 }
 #}
-write_csv(comAs, here("resu_fishes", "rivercrop","resuPEL_fishesAs.csv"))
-write_csv(comCu, here("resu_fishes", "rivercrop","resuPEL_fishesCu.csv"))
-write_csv(comPb, here("resu_fishes", "rivercrop","resuPEL_fishesPb.csv"))
-write_csv(comZn, here("resu_fishes", "rivercrop","resuPEL_fishesZn.csv"))
-write_csv(comHg, here("resu_fishes", "rivercrop","resuPEL_fishesHg.csv"))
+write_csv(comAs, here("resuPEL_fishesAs.csv"))
+write_csv(comCu, here("resuPEL_fishesCu.csv"))
+write_csv(comPb, here("resuPEL_fishesPb.csv"))
+write_csv(comZn, here("resuPEL_fishesZn.csv"))
+write_csv(comHg, here("resuPEL_fishesHg.csv"))
 }
 
-toc()
 
