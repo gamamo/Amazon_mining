@@ -9,5 +9,19 @@
 * Appendix 3: Percentage of overlap of the species richness in 10th, 25th and 50th percentile (i.e. hotspot classes) with mining contaminated areas in each biogeographic region. 
 * Appendix 4: Maximum range exposure (%) within Indigenous territories.
 
-### Example code to calculate the mining exposure in in:
+### Example code to calculate the mining exposure in fishes:
 * getClassificationFishes3.R
+
+#### envidata.zip 
+* This file contains the environmental rasters and shapefiles necessary to run the code _getClassificationFishes3.R_. It incudes:
+** AllDownstream.tif - a rasterfile with the river network of the Amazon
+** amazon_basin_minewatchUTM20S.shp - a shapefile that defines the limits of the Amazon basin
+** wetlands2_am_wgsUTM20S.tif - a raster file containing the distribution of Amazonian wetlands, as obtained from the Hydroshed project (see the paper for description)
+** As.tif - raster file with the modelled As contamination
+** Cu.tif - raster file with the modelled Cu contamination
+** Hg.tif - raster file with the modelled Hg contamination
+** Pb.tif - raster file with the modelled Pb contamination
+** Zn.tif - raster file with the modelled Zn contamination
+
+#### fish_sample.zip
+* This file contains the range area of ~40 random fish species that can be used to test the code getClassificationFishes3.R
