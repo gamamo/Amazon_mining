@@ -22,6 +22,8 @@
   *  Hg.tif - raster file with the modelled Hg contamination
   *  Pb.tif - raster file with the modelled Pb contamination
   *  Zn.tif - raster file with the modelled Zn contamination
+ 
+ All data will be made available after paper acceptance
 
 #### fish_sample.zip
 * This file contains the range area of ~40 random fish species that can be used to test the code _getClassificationFishes3.R_
