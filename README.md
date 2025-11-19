@@ -1,7 +1,7 @@
 # This is the repository of the article:
 
 ## _Amazon biodiversity at risk from metal contamination due to mining activity_
-## submitted on the 20th of April 2025
+## resubmitted on the 19th of November 2025
 
 ### Appendix material is available in here
 * Appendix 1: List of the biological species considered, with the associated proportion of their geographic distribution areas exposed to metal contamination.
